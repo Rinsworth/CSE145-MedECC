@@ -1,8 +1,8 @@
 
-#MedECC
+# MedECC
 
 
-##Overview
+## Overview
 This is a project at UCSD as part of the course CSE 145 and CSE 237D.
 
 MedECC is an open-source telemedicine application that allows clinicians to better scale personnel resources using an Internet of Things system. We are bringing the benefits of modern technology into in-patient care by using modern smartphones to act as a communication hub for an internet-of things system. 
@@ -10,14 +10,14 @@ The app would enable doctors to make quick changes without having to physically 
 
 
 
-##Project Approach, Objectives
+## Project Approach, Objectives
 Monitoring and control application that connects to our prototype ventilator. 
 This would implement and include the functionalities of all of our groups. 
 
 
 
 
-##Groups
+## Groups
 ### Control Group
 The goal of the control group is to implement several types of control algorithms that are frequently-used on ventilators for hospital use. 
 
@@ -34,7 +34,7 @@ The goal of the user interface group is to create an interface which allows for 
 
 
 
-##Team
+## Team
 - Ang Li
 - Christopher Cha
 - Jordan Gassaway
